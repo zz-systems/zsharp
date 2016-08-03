@@ -1,7 +1,8 @@
 # zsharp
 experimental .NET language playground
 
-Should look like this at some point
+Should look like this at some point (more or less)
+
     using System.IO;
 
     namespace Test:
